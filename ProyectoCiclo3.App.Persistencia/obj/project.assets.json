@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
       "projectName": "ProyectoCiclo3.App.Persistencia",
-      "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Julian David\\.nuget\\packages\\",
-      "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\obj\\",
+      "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julian David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7289,8 +7289,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-              "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+            "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+              "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
             }
           }
         }

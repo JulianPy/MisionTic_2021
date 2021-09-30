@@ -22,3 +22,15 @@ D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\ejercicio_base_ciclo3_MT-mai
 D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
 D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
 D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\Mision_Tic_ciclo_3\ejercicio_base_ciclo3_MT-main\mision_tic\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
