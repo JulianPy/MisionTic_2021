@@ -17,8 +17,11 @@
             <td>
               <a class="btn btn-info" asp-page="./Details" asp-route-avionId="@avion.id">Ver</a>
               <a class="btn btn-info" asp-page="./Edit" asp-route-avionId="@avion.id">Editar</a>
-              <a class="btn btn-danger" href="">Eliminar</a>
-              </td>
+              <form method="POST">
+                  <input type="number" class="d-none" id="id" asp-for="@avion.id">
+                  <button type="submit"class="btn btn-danger">Eliminar</button>
+                </form>
+            </td>
         </tr>
     }
 </table>

@@ -28,6 +28,7 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
         public Aviones GetAvionWithId(int id){
             return aviones.SingleOrDefault(b => b.id == id);
         }
+
         public Aviones Update(Aviones newAvion){
             var avion= aviones.SingleOrDefault(b => b.id == newAvion.id);
             if(avion != null){
@@ -38,6 +39,22 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
                 avion.capacidad_maxima = newAvion.capacidad_maxima;
             }
         return avion;
+        }
+        public Aviones Create(Aviones newAvion)
+        {
+           if(aviones.Count > 0){
+           newAvion.id=aviones.Max(r => r.id) +1; 
+            }else{
+               newAvion.id = 1; 
+            }
+           aviones.Add(newAvion);
+           return newAvion;
+        }
+        public Aviones Delete(int id)
+        {
+            var avion= aviones.SingleOrDefault(b => b.id == id);
+            aviones.Remove(avion);
+            return avion;
         }
     }
 }
