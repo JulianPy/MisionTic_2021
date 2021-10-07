@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {}
+    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {}
   },
   "projects": {
-    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {
+    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+        "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
         "projectName": "ProyectoCiclo3.App.Consola",
-        "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+        "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
         "packagesPath": "C:\\Users\\Julian David\\.nuget\\packages\\",
-        "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\obj\\",
+        "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-                "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+              "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+                "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Julian David\\.nuget\\packages\\",
-        "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+    "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
         "projectName": "ProyectoCiclo3.App.Persistencia",
-        "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Julian David\\.nuget\\packages\\",
-        "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\obj\\",
+        "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +165,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-                "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+              "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+                "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
               }
             }
           }

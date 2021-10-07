@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "odKHENK0UlK4ChIlfFdZlT8dwQ5qifXvTG6CNw3pa1l0MJ4BXKN8fWJcEVts4jxnnwUAXMcfFI0qW8TuUrA02A==",
+  "dgSpecHash": "G5bzcN2SeFGhmjClcZiN5Lg+bs5OjEkv4qmno35JYMPIwPBc/2YG8DbJguq0/8iwjIkBiJGVQKSiTj3DLTFk5w==",
   "success": true,
-  "projectFilePath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+  "projectFilePath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julian David\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Julian David\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

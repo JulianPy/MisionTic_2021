@@ -5840,11 +5840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectUniqueName": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "projectName": "ProyectoCiclo3.App.Consola",
-      "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "packagesPath": "C:\\Users\\Julian David\\.nuget\\packages\\",
-      "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Consola\\obj\\",
+      "outputPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julian David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5861,8 +5861,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+            "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "D:\\Mision_Tic_ciclo_3\\ejercicio_base_ciclo3_MT-main\\mision_tic\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }

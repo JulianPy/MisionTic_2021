@@ -8,28 +8,18 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
     public class RepositorioAeropuertos
     {
         List<Aeropuertos> aeropuertos;
- 
-    public RepositorioAeropuertos()
-        {
-            aeropuertos= new List<Aeropuertos>()
-            {
-                new Aeropuertos{id=1, nombre="El Dorado", ciudad="Bogota", pais="Colombia", coord_x=2, coord_y=3},
-                new Aeropuertos{id=2, nombre="Aero-cafe", ciudad="Manizales", pais="Colombia", coord_x=4, coord_y=5},
-                new Aeropuertos{id=3, nombre="Ernesto Cortissoz", ciudad="Barranquilla", pais="Colombia", coord_x=6, coord_y=7}
-            };
-        }
+        private readonly AppContext _appContext = new AppContext(); 
  
         public IEnumerable<Aeropuertos> GetAll()
         {
-            return aeropuertos;
+             return _appContext.Aeropuertos;
         }
- 
         public Aeropuertos GetAeropuertoWithId(int id){
-            return aeropuertos.SingleOrDefault(b => b.id == id);
+            return _appContext.Aeropuertos.Find(id);
         }
 
         public Aeropuertos Update(Aeropuertos newAeropuerto){
-            var aeropuerto= aeropuertos.SingleOrDefault(b => b.id == newAeropuerto.id);
+            var aeropuerto = _appContext.Aeropuertos.Find(newAeropuerto.id);
             if(aeropuerto != null){
                 aeropuerto.nombre = newAeropuerto.nombre;
                 aeropuerto.ciudad = newAeropuerto.ciudad;
@@ -37,23 +27,24 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
                 aeropuerto.coord_x = newAeropuerto.coord_x;
                 aeropuerto.coord_y = newAeropuerto.coord_y;
             }
+            _appContext.SaveChanges();
         return aeropuerto;
         }
+
         public Aeropuertos Create(Aeropuertos newAeropuerto)
         {
-           if(aeropuertos.Count > 0){
-           newAeropuerto.id=aeropuertos.Max(r => r.id) +1; 
-            }else{
-               newAeropuerto.id = 1; 
-            }
-           aeropuertos.Add(newAeropuerto);
-           return newAeropuerto;
+            var addAeropuerto = _appContext.Aeropuertos.Add(newAeropuerto);
+            _appContext.SaveChanges();
+             return addAeropuerto.Entity;
         }
-        public Aeropuertos Delete(int id)
+        public void Delete(int id)
         {
-            var aeropuerto= aeropuertos.SingleOrDefault(b => b.id == id);
-            aeropuertos.Remove(aeropuerto);
-            return aeropuerto;
-        }
+            var aeropuerto = _appContext.Aeropuertos.Find(id);
+            if (aeropuerto == null){
+                return;
+            }
+            _appContext.Aeropuertos.Remove(aeropuerto);
+            _appContext.SaveChanges();
+    }
     }
 }
